@@ -1,8 +1,3 @@
-다음은 SpringVectorDB 프로젝트를 위한 README.md 파일입니다.
-
-
----
-
 SpringVectorDB
 
 SpringVectorDB는 MongoDB를 벡터 데이터베이스로 활용하여 유사도 검색 기능을 제공하는 Spring Boot 기반 프로젝트입니다.
